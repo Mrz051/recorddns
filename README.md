@@ -12,7 +12,7 @@ Script to set DDNS Record via [CloudFlare](https://www.cloudflare.com)
 mkdir /home/CloudFlare_DDNS
 cd /home/CloudFlare_DDNS
 wget https://raw.githubusercontent.com/Mrz051/recorddns/CloudFlare_DNS_Record/Setter/CloudFlare_DDNS_Setter.sh
-wget [https://github.com/Mrz051/recorddns](https://raw.githubusercontent.com/Mrz051/recorddns/CloudFlare_DNS_Record/Setter/config.conf
+wget [https://githubusercontent.com/Mrz051/recorddns](https://raw.githubusercontent.com/Mrz051/recorddns/CloudFlare_DNS_Record/Setter/config.conf
 ```
 
 ## config
