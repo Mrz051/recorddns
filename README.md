@@ -2,7 +2,7 @@
 [![Build Status](https://github.com/nanqinlang/SVG/blob/master/build%20passing.svg)](https://github.com/nanqinlang-script/CloudFlare_DNS_Record)
 [![language](https://github.com/nanqinlang/SVG/blob/master/language-shell-blue.svg)](https://github.com/nanqinlang-script/CloudFlare_DNS_Record)
 [![author](https://github.com/nanqinlang/SVG/blob/master/author-nanqinlang-lightgrey.svg)](https://github.com/nanqinlang-script/CloudFlare_DNS_Record)
-[![license](https://github.com/nanqinlang/SVG/blob/master/license-GPLv3-orange.svg)](https://github.com/nanqinlang-script/CloudFlare_DNS_Record)
+[![license](https://github.com/nanqinlang/SVG/blob/master/license-GPLv3-orange.svg)](https://github.com/Mrz051/recorddns/CloudFlare_DNS_Record)
 
 Script to set DDNS Record via [CloudFlare](https://www.cloudflare.com)
 
@@ -11,8 +11,8 @@ Script to set DDNS Record via [CloudFlare](https://www.cloudflare.com)
 ```bash
 mkdir /home/CloudFlare_DDNS
 cd /home/CloudFlare_DDNS
-wget https://raw.githubusercontent.com/nanqinlang-script/CloudFlare_DNS_Record/Setter/CloudFlare_DDNS_Setter.sh
-wget https://raw.githubusercontent.com/nanqinlang-script/CloudFlare_DNS_Record/Setter/config.conf
+wget https://raw.githubusercontent.com/Mrz051/recorddns/CloudFlare_DNS_Record/Setter/CloudFlare_DDNS_Setter.sh
+wget [https://github.com/Mrz051/recorddns](https://raw.githubusercontent.com/Mrz051/recorddns/CloudFlare_DNS_Record/Setter/config.conf
 ```
 
 ## config
